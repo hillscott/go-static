@@ -1,5 +1,5 @@
 # wp-static
-Scripts &amp; Guidance on how to migrate from a dynamic website to a staticly hosted one.
+Scripts &amp; Guidance on how to migrate from a dynamic website to a statically hosted one.
 
 This repository is focused on assisting people using wordpress to migrate to an Azure or AWS statically hosted site with a CDN (Content Delivery Network) in-front for improved security, response-times, resilience, and lower costs. 
 
