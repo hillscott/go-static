@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # Author Ian Reynolds
 # Set the below variable to where you want the script to walk through your file-system
 # It will find any folders that have % characters in them, which is a common outcome
